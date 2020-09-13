@@ -12,7 +12,13 @@
 * 乐华七子
 * 王一博
 
+我只会一点点 Java 
+
 ```java
-  String name="one pig"
-  System.out.println(name)
+
+  
+  	public static void main(String[] args){
+		  String name="one pig";
+		  System.out.println(name);
+		  }
 ```
